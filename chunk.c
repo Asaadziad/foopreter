@@ -1,6 +1,6 @@
 #include "chunk.h"
 #include "memory.h"
-
+#include "value.h"
 
 void initChunk(Chunk* chunk){
     if(!chunk) return;
