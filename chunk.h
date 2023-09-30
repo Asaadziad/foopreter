@@ -12,6 +12,13 @@ typedef enum {
     OP_MULTIPLY,
     OP_DIVIDE,
     OP_RETURN,
+    OP_NIL,
+    OP_TRUE,
+    OP_FALSE,
+    OP_NOT,
+    OP_EQUAL,
+    OP_GREATER,
+    OP_LESS,
 } OpCode;
 
 typedef struct chunk_t {
