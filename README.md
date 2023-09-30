@@ -2,7 +2,7 @@
 
 Learning about interpreters
 
-![diagram](https://github.com/Asaadziad/foopreter/assets/108868994/9d5f9033-be1b-4201-aaf0-61d769ab84d1)
+![diagram](https://github.com/Asaadziad/foopreter/assets/108868994/aa39a925-ada1-4663-a036-7729b2ce3261)
 
 
 # Credits
