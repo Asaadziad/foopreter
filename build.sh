@@ -1,3 +1,4 @@
 #!/bin/bash
 
-make && make clean
+gcc *.c -o main
+make clean

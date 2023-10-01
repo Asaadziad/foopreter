@@ -25,7 +25,6 @@ The project is built on top of C for simplicity and speed, here's a diagram that
 clone the project
 ```
 git clone https://github.com/Asaadziad/foopreter/
-
 ```
 build
 

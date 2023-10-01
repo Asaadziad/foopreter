@@ -7,7 +7,7 @@ CC := gcc
 # CFLAGS := -Wall -lSDL2 -lSDL2_ttf -ldl
 
 # add source files here
-SRCS := main.c chunk.c debug.c memory.c vm.c value.c compile.c scanner.c
+SRCS := main.c chunk.c compile.c debug.c memory.c object.c scanner.c value.c vm.c table.c
 
 # generate names of object files
 OBJS := $(SRCS:.c=.o)
