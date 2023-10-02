@@ -18,6 +18,7 @@ The project is built on top of C for simplicity and speed, here's a diagram that
  ![Screenshot from 2023-09-30 10-37-24](https://github.com/Asaadziad/foopreter/assets/108868994/1df66072-c5e4-4bfe-abc5-d5d590e5cdb0)
 
 - 2/10/2023 :- it now supports variables
+
 ![Screenshot from 2023-10-02 05-28-36](https://github.com/Asaadziad/foopreter/assets/108868994/2870b0b9-abf9-46dc-a44f-c5239a262604)
 
 

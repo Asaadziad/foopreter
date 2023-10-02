@@ -1,4 +1,3 @@
 #!/bin/bash
 
-gcc *.c -o main
-make clean
+gcc src/*.c -o ../main
