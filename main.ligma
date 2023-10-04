@@ -1,0 +1,8 @@
+let x = 3;
+
+let j = 0;
+
+while(j < x){
+    print(j);
+    j = j + 1; 
+}
