@@ -27,7 +27,8 @@ The project is built on top of C for simplicity and speed, here's a diagram that
 
 - 6/10/2023 :- Added support for functions
 
-[photot here]
+![Screenshot from 2023-10-06 21-15-13](https://github.com/Asaadziad/foopreter/assets/108868994/44d9e1d9-9b48-42ad-95c9-2c464ddc42f1)
+
 
 
 # Getting started
