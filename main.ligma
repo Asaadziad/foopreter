@@ -1,8 +1,5 @@
-let x = 3;
-
-let j = 0;
-
-while(j < x){
-    print(j);
-    j = j + 1; 
+fn balls(){
+    print("hello world");
 }
+
+balls();

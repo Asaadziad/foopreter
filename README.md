@@ -23,8 +23,11 @@ The project is built on top of C for simplicity and speed, here's a diagram that
 
 - 4/10/2023 :- Control flow added 
 
-[photo hhere]
+![Screenshot from 2023-10-04 07-54-14](https://github.com/Asaadziad/foopreter/assets/108868994/5b5a4559-7f44-4058-8487-f9adb8235800)
 
+- 6/10/2023 :- Added support for functions
+
+[photot here]
 
 
 # Getting started
