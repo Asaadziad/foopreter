@@ -1,5 +1,7 @@
-fn balls(){
-    print("hello world");
+fn ligma(x){
+    print(x);
 }
 
-balls();
+let balls = "hello world!";
+
+ligma(balls);
