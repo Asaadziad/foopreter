@@ -3,7 +3,7 @@
 Learning about interpreters
 
 # Intro
-Interpreting the "Lox" programming language happens in 3 major steps:-
+Interpreting the "Ligma" programming language happens in 3 major steps:-
 * Scanning the user's input
 * Compiling to Bytecode
 * Executing using Virtual machine
