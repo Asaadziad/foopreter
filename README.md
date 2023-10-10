@@ -29,7 +29,9 @@ The project is built on top of C for simplicity and speed, here's a diagram that
 
 ![Screenshot from 2023-10-06 21-15-13](https://github.com/Asaadziad/foopreter/assets/108868994/44d9e1d9-9b48-42ad-95c9-2c464ddc42f1)
 
+- 10/10/2023 :- Added GC
 
+[photo here]
 
 # Getting started
 
